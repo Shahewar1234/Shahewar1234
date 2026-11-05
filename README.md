@@ -2,7 +2,7 @@
 
 **React Native Developer** building iOS, Android and self-service kiosk apps with TypeScript, and adding AI features with Google Gemini and Claude.
 
-- 💼 React Native Developer at **Capgemini**, building the customer mobile app and self-service kiosk app for **Tropical Smoothie Cafe** (US, 1,750+ locations)
+- 💼 React Native Developer at **Capgemini**, building a customer mobile app and self-service kiosk app for a leading US restaurant brand with 1,750+ locations
 - 📱 Focused on React Native New Architecture, Reanimated, offline-first apps and performance
 - 🤖 Building AI-powered mobile apps · **Claude Certified Developer** (Anthropic Academy)
 - 🎓 B.E. Computer Science & Engineering · Lila Poonawalla Foundation Scholar
@@ -39,9 +39,9 @@
 
 | Project | What it does | Tech |
 | --- | --- | --- |
-| [**PennyPilot**](https://github.com/Shahewar1234/pennypilot-ai-expense-tracker) | AI-powered expense tracker with a Gemini financial assistant, multi-currency travel mode, analytics dashboard and offline support | React Native, TypeScript, Firestore, Gemini |
-| [**Foodgo**](https://github.com/Shahewar1234/foodgo-react-native) | Food delivery app with real-time order sync, live tracking, payments and offline mode | React Native, TypeScript, Redux-Persist, Firebase Cloud Functions |
-| [**Quick Bite**](https://github.com/Shahewar1234/quickbite-food-delivery) | Food ordering app with AI menu recommendations and location-aware restaurant discovery | React Native, TypeScript, Redux Toolkit, Gemini |
+| [**PennyPilot**](https://github.com/Shahewar1234/PennyPilot) | AI-powered expense tracker with a Gemini financial assistant, multi-currency travel mode, analytics dashboard and offline support | React Native, TypeScript, Firestore, Gemini |
+| [**Foodgo**](https://github.com/Shahewar1234/Foodgo) | Food delivery app with real-time order sync, live tracking, payments and offline mode | React Native, TypeScript, Redux-Persist, Firebase Cloud Functions |
+| **Quick Bite** 🚧 *Coming soon on Play Store* | Food ordering app with AI menu recommendations and location-aware restaurant discovery | React Native, TypeScript, Redux Toolkit, Gemini |
 
 ---
 
